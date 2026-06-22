@@ -19,4 +19,4 @@ Here I'll be sharing:
 
 Goal: **Build strong SQL skills for Data Analytics, Data Science & ML roles.**
 
-Learning • Practicing • Improving 📈﻿# SQL_LEARNING
+Learning • Practicing • Improving 📈﻿
